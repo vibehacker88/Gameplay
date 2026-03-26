@@ -196,7 +196,31 @@ This game demonstrates:
 - **Power-ups**: Special abilities and boosts
 - **Campaign Mode**: Progressive challenges with story elements
 
-## 📝 License
+## � Intercepted Transmission
+
+```
+[ENCRYPTED PACKET CAPTURED - ORIGIN: UNKNOWN]
+[TIMESTAMP: 2014-11-13T00:00:00Z]
+[CLASSIFICATION: BEAST PROTOCOL]
+
+Base64 Payload:
+MTAwMDAwMDAwMDAwMDA2NjYwMDAwMDAwMDAwMDAwMQ==
+
+Hex Fragment:
+31 30 30 30 30 30 30 30 30 30 30 30 30 36 36 36 30 30 30 30 30 30 30 30 30 30 30 30 31
+
+Sequence Marker: A156166
+Demon Index: Belphegor
+Verification Systems: PARI, Mathematica, Magma, Maple
+
+[TRANSMISSION ENDS - TRACE ./666/README.md]
+```
+
+**Hint**: The payload above is not encrypted—merely encoded. Decode it to reveal the Prime Beast. Follow the trace for the full forensic report.
+
+---
+
+## �📝 License
 
 MIT License - Feel free to modify and distribute for educational purposes.
 
